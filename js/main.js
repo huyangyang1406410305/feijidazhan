@@ -6,6 +6,7 @@ var suspenddiv=document.getElementById("suspenddiv");
 var enddiv=document.getElementById("enddiv");
 var planscore=document.getElementById("planscore");
 var scores=0;
+
 function plan(hp,X,Y,sizeX,sizeY,score,dietime,sudu,boomimage,imagesrc){
     this.planX=X;
     this.planY=Y;
